@@ -8,4 +8,7 @@ opnsynid-crm:
     - crm_disable_m2o_option
     - crm_lead_auto_archieve
     - crm_lead_day_on_stage
-    - crm_lead_workflow_policy    
+    - crm_lead_workflow_policy
+
+jsp-custom:
+    - hol_crm_notification   
