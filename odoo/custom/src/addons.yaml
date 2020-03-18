@@ -1,0 +1,11 @@
+web:
+    - web_m2x_options
+
+opnsynid-server-tools:
+    - base_workflow_policy
+
+opnsynid-crm:
+    - crm_disable_m2o_option
+    - crm_lead_auto_archieve
+    - crm_lead_day_on_stage
+    - crm_lead_workflow_policy    
