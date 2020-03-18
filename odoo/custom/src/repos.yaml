@@ -41,3 +41,19 @@ opnsynid-crm:
     target: origin $ODOO_VERSION
     merges:
         - origin $ODOO_VERSION
+jsp-custom:
+    defaults:
+        depth: $DEPTH_DEFAULT
+    remotes:
+        origin: https://github.com/open-synergy/jsp-custom.git
+    target: origin $ODOO_VERSION
+    merges:
+        - origin $ODOO_VERSION
+enterprise:
+    defaults:
+        depth: $DEPTH_DEFAULT
+    remotes:
+        origin: https://github.com/open-synergy/oe.git
+    target: origin $ODOO_VERSION
+    merges:
+        - origin $ODOO_VERSION
