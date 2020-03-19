@@ -49,11 +49,3 @@ jsp-custom:
     target: origin $ODOO_VERSION
     merges:
         - origin $ODOO_VERSION
-enterprise:
-    defaults:
-        depth: $DEPTH_DEFAULT
-    remotes:
-        origin: https://github.com/open-synergy/oe.git
-    target: origin $ODOO_VERSION
-    merges:
-        - origin $ODOO_VERSION

@@ -11,4 +11,4 @@ opnsynid-crm:
     - crm_lead_workflow_policy
 
 jsp-custom:
-    - hol_crm_notification   
+    - hol_crm_notification
