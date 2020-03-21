@@ -12,3 +12,6 @@ opnsynid-crm:
 
 jsp-custom:
     - hol_crm_notification
+
+enterprise:
+    - "*"
